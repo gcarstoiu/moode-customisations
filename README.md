@@ -2,7 +2,7 @@
 
 A set of write-ups and installer scripts for six customisations built on top of
 [moOde audio player](https://moodeaudio.org) 10.3.2 on a Raspberry Pi. Everything
-here was developed and verified on one real system (Pi 5, HiFiBerry DAC+ HD,
+here was developed and verified on one real system (Pi 4, HiFiBerry DAC2 HD,
 1280x800 touchscreen) between 2026-08-27 and 2026-08-29, then written up and
 genericised for sharing. See `OVERVIEW.md` for what problem each piece solves
 and why it might be useful to you; see `CREDITS.md` for the upstream projects
