@@ -69,6 +69,6 @@ prints the same list on completion.
 ## System this was built and verified against
 
 moOde 10.3.2 (Trixie), Chromium 126.0.6478.164, pygame 2.6.1,
-Python 3.13.5, nginx 1.26.3, PHP 8.4-FPM, Raspberry Pi 5. **Not re-verified
+Python 3.13.5, nginx 1.26.3, PHP 8.4-FPM, Raspberry Pi 4. **Not re-verified
 against any other version** — see the per-topic docs for exactly which claims
 were tested and which weren't.
